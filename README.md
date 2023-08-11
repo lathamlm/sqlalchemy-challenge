@@ -16,11 +16,11 @@ ____________________________________________________________________
 
 During analysis, precipitation amount (inches) was measured from 8-23-2016 - 8-23-2017 at 9 different stations.  This is represented in the figure below.
 
-![hawaii_precipitation](Images/hawaii_precipitation.png)
+![hawaii_precipitation](SurfsUp/Images/hawaii_precipitation.png)
 
 Average temperature was also measured for the same time period (8-23-2016 - 8-23-2017) at the station with the most data. This is represented in the figure below.
 
-![station_avg_temp](Images/station_avg_temp.png)
+![station_avg_temp](SurfsUp/Images/station_avg_temp.png)
 
 ____________________________________________________________________
 
