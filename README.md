@@ -10,7 +10,7 @@ ____________________________________________________________________
     - Resources folder containing an .sqlite file and two .csv files
     - Images folder containing two figures from Jypyter notebook
     - climate_starter.ipynb - Jupyter Notebook containing climate analysis
-    - app.py - python file containing _______________
+    - app.py - python file containing Flask API coding
 - gitignore file
 ____________________________________________________________________
 
