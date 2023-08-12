@@ -9,6 +9,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
+
 #################################################
 # Database Setup
 #################################################
@@ -26,6 +27,7 @@ Station = Base.classes.station
 
 # Create our session (link) from Python to the DB
 session = Session(bind=engine)
+
 
 #################################################
 # Flask Setup
@@ -133,6 +135,6 @@ def start_end(start, end):
     #JSONIFY LIST
     return jsonify(start_end_math)
 
-
+#RUNS APP
 if __name__ == '__main__':
     app.run(debug=True)
